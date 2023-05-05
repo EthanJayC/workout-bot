@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T13:37:11.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="B8JFc-AgeffTT2aGsKKE" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-05T13:50:25.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="I9onVlvkAt8e9hoEYluT" version="21.2.9" type="github" pages="3">
   <diagram name="Login/Signup" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="3d76a8aef4d5c911-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="390" y="110" width="380" height="40" as="geometry" />
+        <mxCell id="qreZyni1siQHWPNsE6Oy-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="80" width="380" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="3d76a8aef4d5c911-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;rounded=0;fontSize=12;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=#FFB570;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="390" y="150" width="380" height="480" as="geometry" />
+        <mxCell id="3d76a8aef4d5c911-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="qreZyni1siQHWPNsE6Oy-1" vertex="1">
+          <mxGeometry width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;rounded=0;fontSize=12;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=#FFB570;fillColor=#ffe6cc;" parent="qreZyni1siQHWPNsE6Oy-1" vertex="1">
+          <mxGeometry y="40" width="380" height="480" as="geometry" />
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-13" value="Lifting Bot" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=center;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
           <mxGeometry x="17.272727272727273" y="20" width="345.45454545454544" height="48" as="geometry" />
@@ -26,18 +29,18 @@
         <mxCell id="3d76a8aef4d5c911-12" value="320x200" style="shape=rect;fontSize=24;fillColor=#f0f0f0;strokeColor=none;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-11" vertex="1">
           <mxGeometry x="30" y="90" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Gzw9XrTPrkC_J0xs7kbZ-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.battery;" vertex="1" parent="1">
-          <mxGeometry x="730" y="124" width="30" height="12" as="geometry" />
+        <mxCell id="Gzw9XrTPrkC_J0xs7kbZ-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.battery;" vertex="1" parent="qreZyni1siQHWPNsE6Oy-1">
+          <mxGeometry x="340" y="14" width="30" height="12" as="geometry" />
         </mxCell>
         <UserObject label="%date{ddd mmm dd yyyy HH:MM}%" placeholders="1" id="Gzw9XrTPrkC_J0xs7kbZ-3">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FFFFFF;" vertex="1" parent="1">
-            <mxGeometry x="390" y="120" width="160" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FFFFFF;" vertex="1" parent="qreZyni1siQHWPNsE6Oy-1">
+            <mxGeometry y="10" width="160" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="New starter/Home page" id="_Tm4pAFHsw66kYfchQfO">
+  <diagram name="new starter details " id="_Tm4pAFHsw66kYfchQfO">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="qirRW2mH4miSfA-RRlta-0" style=";html=1;" />
@@ -273,7 +276,7 @@
           <mxGeometry x="890" y="610" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bmGCBDj_ouBWpc9T3Gnn-29" value="Example string:&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;I am a 25 year old male, I&#39;m 5&#39;8&quot;, weigh 75kg and I want to gain muscle, I have no experience, can you write a simple weight lifting routine for me as a novice.&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qirRW2mH4miSfA-RRlta-1">
-          <mxGeometry x="910" y="840" width="200" height="150" as="geometry" />
+          <mxGeometry x="920" y="877" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bmGCBDj_ouBWpc9T3Gnn-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.79;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qirRW2mH4miSfA-RRlta-1" source="bmGCBDj_ouBWpc9T3Gnn-28" target="bmGCBDj_ouBWpc9T3Gnn-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -289,11 +292,137 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Basic info" id="icyaU5__4ZeYMUDiHgfy">
+  <diagram name="AI writes program response" id="icyaU5__4ZeYMUDiHgfy">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="czLHHqyi1y_sS3A5oA_F-0" style=";html=1;" />
         <mxCell id="czLHHqyi1y_sS3A5oA_F-1" style=";html=1;" parent="czLHHqyi1y_sS3A5oA_F-0" />
+        <mxCell id="gyFxKVWtm0o4-1M722bz-0" value="" style="group" vertex="1" connectable="0" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry x="150" y="240" width="550" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="gyFxKVWtm0o4-1M722bz-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gyFxKVWtm0o4-1M722bz-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;rounded=0;fontSize=12;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=#FFB570;fillColor=#ffe6cc;container=0;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry y="40" width="380" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="gyFxKVWtm0o4-1M722bz-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.battery;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry x="340" y="14" width="30" height="12" as="geometry" />
+        </mxCell>
+        <UserObject label="%date{ddd mmm dd yyyy HH:MM}%" placeholders="1" id="gyFxKVWtm0o4-1M722bz-4">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FFFFFF;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+            <mxGeometry y="10" width="160" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gyFxKVWtm0o4-1M722bz-5" value="The Lifting Bot" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=22;align=center;whiteSpace=wrap;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry x="17.28" y="46" width="345.45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gyFxKVWtm0o4-1M722bz-6" value="Create program" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry x="120" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyFxKVWtm0o4-1M722bz-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/logout-128.png" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry x="320.73" y="50" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-2" value="&lt;b&gt;Hello John, so you&#39;re a&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;a 25 year old male, 5&#39;8&quot;, weigh who weighs 75kg and you want to gain muscle, but you have no experience in weightlifting? Not a problem!&amp;nbsp;&lt;br&gt;&lt;br&gt;Let me write a simple program for you to follow...&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry x="35" y="110" width="310" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-3" value="TODO: That&#39;s not right! Re enter details.." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="gyFxKVWtm0o4-1M722bz-0">
+          <mxGeometry x="120" y="410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-1" value="The AI responds, confirming the details by displaying the string that&#39;s built when sent to it. (add confirmation later?)&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;it then suggests a simple routine that&#39;s then saved to the user profile" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry x="150" y="20" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-4" value="" style="group" vertex="1" connectable="0" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry x="720" y="240" width="400" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;rounded=0;fontSize=12;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=#FFB570;fillColor=#ffe6cc;container=0;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry y="40" width="380" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.battery;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="340" y="14" width="30" height="12" as="geometry" />
+        </mxCell>
+        <UserObject label="%date{ddd mmm dd yyyy HH:MM}%" placeholders="1" id="0gfhON021TSuvs4il6ef-8">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FFFFFF;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+            <mxGeometry y="10" width="160" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="0gfhON021TSuvs4il6ef-9" value="The Lifting Bot" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=22;align=center;whiteSpace=wrap;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="17.28" y="46" width="345.45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-10" value="Some weightlifting name i.e Novice Mass Builder" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="20" y="140" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/logout-128.png" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="340" y="50" width="22.73" height="22.73" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Here&#39;s what I&#39;ve written for you...&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="70" y="96" width="240" height="37.27" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-17" value="Monday: Chest, Shoulders, Triceps" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="20.01" y="290" width="342.72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-18" value="Wednesday: Back, Biceps" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="20.009999999999973" y="360" width="342.72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-19" value="Friday: Legs" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="20.00999999999999" y="430" width="342.72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Some text on how many X times a week, and why, click to explore each workout.&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gfhON021TSuvs4il6ef-4">
+          <mxGeometry x="20.01" y="200" width="299.99" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-15" value="The AI then displays a simple, interactive layout, i.e. Monday - Chest, Triceps&lt;br&gt;Weds- Back, biceps&lt;br&gt;Fri- Legs, Abs" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry x="710" y="20" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="450" as="sourcePoint" />
+            <mxPoint x="710" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-22" value="" style="group" vertex="1" connectable="0" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry x="140" y="1010" width="400" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-23" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-24" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#d79b00;rounded=0;fontSize=12;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=#FFB570;fillColor=#ffe6cc;container=0;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry y="40" width="380" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-25" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.battery;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry x="340" y="14" width="30" height="12" as="geometry" />
+        </mxCell>
+        <UserObject label="%date{ddd mmm dd yyyy HH:MM}%" placeholders="1" id="0gfhON021TSuvs4il6ef-26">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FFFFFF;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+            <mxGeometry y="10" width="160" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="0gfhON021TSuvs4il6ef-27" value="The Lifting Bot" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=22;align=center;whiteSpace=wrap;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry x="17.28" y="46" width="345.45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-28" value="Some weightlifting name i.e Novice Mass Builder" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry x="22.73" y="110" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/logout-128.png" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry x="340" y="50" width="22.73" height="22.73" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-31" value="Monday: Chest, Shoulders, Triceps" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry x="22.73" y="150" width="342.72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-33" value="Go back" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry x="21.37" y="56" width="79.99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Description of the workout, e.g&lt;br&gt;&lt;br&gt;Chest: 3 x 10 sets of bench press&lt;br&gt;3 x 10 sets of cable flyes&lt;br&gt;Shoulders: 3 x 10 sets of overhead DB presses&lt;br&gt;Triceps: 3 x 10 sets of tricep pushdowns.&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gfhON021TSuvs4il6ef-22">
+          <mxGeometry x="21.37" y="210" width="328.63" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-35" value="Clicking on a day will open up each exercise and how to do it.. Possible youtube API to link to a video??" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry x="140" y="780" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0gfhON021TSuvs4il6ef-36" value="For now, keeping this as a display of text is my first objective.&lt;br&gt;I can expand it into an interactive infographic that links to videos etc. further on." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="czLHHqyi1y_sS3A5oA_F-1">
+          <mxGeometry x="540" y="1140" width="380" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
